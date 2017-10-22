@@ -1,0 +1,5 @@
+D:\Wroński\cwiczenia2\cwiczenia 2.1\bin\Debug\cwiczenia 2.1.exe.config
+D:\Wroński\cwiczenia2\cwiczenia 2.1\bin\Debug\cwiczenia 2.1.exe
+D:\Wroński\cwiczenia2\cwiczenia 2.1\bin\Debug\cwiczenia 2.1.pdb
+D:\Wroński\cwiczenia2\cwiczenia 2.1\obj\Debug\cwiczenia 2.1.exe
+D:\Wroński\cwiczenia2\cwiczenia 2.1\obj\Debug\cwiczenia 2.1.pdb

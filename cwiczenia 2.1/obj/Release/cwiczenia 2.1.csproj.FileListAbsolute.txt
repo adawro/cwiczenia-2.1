@@ -1,0 +1,6 @@
+D:\Wroński\cwiczenia2\cwiczenia 2.1\bin\Release\cwiczenia 2.1.exe.config
+D:\Wroński\cwiczenia2\cwiczenia 2.1\bin\Release\cwiczenia 2.1.exe
+D:\Wroński\cwiczenia2\cwiczenia 2.1\bin\Release\cwiczenia 2.1.pdb
+D:\Wroński\cwiczenia2\cwiczenia 2.1\obj\Release\cwiczenia 2.1.csprojResolveAssemblyReference.cache
+D:\Wroński\cwiczenia2\cwiczenia 2.1\obj\Release\cwiczenia 2.1.exe
+D:\Wroński\cwiczenia2\cwiczenia 2.1\obj\Release\cwiczenia 2.1.pdb
